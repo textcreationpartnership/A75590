@@ -1,0 +1,256 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Army no usurpers, or The late Parliament not almighty and everlasting: shewing, that the present army in their former opposing, and late dissolving of the Parliament, have done nothing contrary to law, but according to equity. And that the late Parliaments claim of power to do what they please, until they should be dissolved by their own consent, is long since made void by their own act.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75590</idno>
+            <idno type="STC">Wing A3712</idno>
+            <idno type="STC">Thomason E697_13</idno>
+            <idno type="STC">ESTC R23359</idno>
+            <idno type="EEBO-CITATION">99871983</idno>
+            <idno type="PROQUEST">99871983</idno>
+            <idno type="VID">166530</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75590)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166530)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 107:E697[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Army no usurpers, or The late Parliament not almighty and everlasting: shewing, that the present army in their former opposing, and late dissolving of the Parliament, have done nothing contrary to law, but according to equity. And that the late Parliaments claim of power to do what they please, until they should be dissolved by their own consent, is long since made void by their own act.</title>
+               </titleStmt>
+               <extent>[4], 11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert, at the sign of the Black-spread Eagle, at the West end of Pauls.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May. 20.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166530:1" rendition="simple:additions"/>
+            <p>THE ARMY NO USURPERS, OR The late Parliament not Almighty and Everlaſting:
+<hi>Shewing,</hi>
+            </p>
+            <p>That the preſent Army in their former oppoſing, and late diſſolving of the Parliament, have done no<g ref="char:EOLhyphen"/>thing contrary to Law, but according to equity.</p>
+            <p>And that the late Parliaments claim of power to do what they pleaſe, until they ſhould be diſſolved by their own conſent, is long ſince made void by their own Act.</p>
+            <q>
+               <bibl>
+                  <hi>Exod. 7.4.</hi>
+               </bibl>
+               <p>But Pharaoh ſhall not hearken unto you, that I may lay my hand upon Egypt and bring forth mine Armies, and my People the children of Iſrael out of the land of Egypt by great Judgements.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Giles Calvert,</hi> at the ſign of the Black-ſpread
+<hi>Eagle,</hi> at the Weſt end of <hi>Pauls.</hi> 1653.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:166530:2"/>
+            <pb facs="tcp:166530:2"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Here every man may do what he liſt, there can be nothing but perpetual ſtrife and bloodſhed: To avoid this, men chooſe ſubjection to Government, as a kind of Arbitration for taking up differences amongst them,<note place="margin">1 Pet. 2. 13. Rom. 13.1, 2.</note> and the leſs there is of obligation between them to abide this tryal, the more there is of truſt: For which cauſe we are to ſubmit thereunto, as an ordinance of man approved by God; and keep Covenant, though to our loſs.<note place="margin">Pſal. 15.4.</note>
+            </p>
+            <p>Thoſe that do otherwiſe, render vain all mutuall Truſts and promiſes, and by conſequence diſtroy all commerce &amp; lively hood, which is far from common honeſty, farther from Piety, worſt in Publike affairs, eſpecially in publike men, and moſt eſpecially in the Godly; to the juſtifying of ſeditions, ruin of Nations, and making Religion Odious; All which, if the Army have been guilty of, they deſerve their doom.</p>
+            <p>Now as it is far from my deſire to juſtifie an evil Action, (eſpecially thus aggravated, if it had been indeed evil) So neither was it in my thoughts to have writ any thing at all of this Subject till many dayes after the Parliament was diſſolved; when by an unexpected providence I was led unto it, though
+<pb facs="tcp:166530:3"/>
+               <note place="margin">Iſa. 15.2.</note>with reſolution (through grace) to be guided by truth, and not to fain pretences. For if I may ſay that any ſin is more contrary to my nature then another, (as all ſins are not alike predomi<g ref="char:EOLhyphen"/>nant in every man) I think it is that of faction or part-taking farther then I ſee ground for it, as is ſomething known to thoſe that are acquainted with me; and ſo ſubmitting what is here written to cenſure.</p>
+            <closer>
+               <signed>I remain a Servant to Truth.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:166530:3"/>
+            <head>The Army no Uſurpers, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is pleaded by ſome, that the Authority of the late Parliament is ſtill in force, though at preſent interrupted, and therefore whatſoever Government ſhall be ſetled without them, is of no validity; The rather for that (ſay they) there was an Act made at the beginning thereof, that they ſhould not be diſſolved otherwiſe then by their own conſent; For this cauſe it may be a matter of great Importance to the ſettlement of mens minds therein, if it ſhall fully ap<g ref="char:EOLhyphen"/>pear that the late Parliament was by their own Act long ſince diſſolved, as to their Parliamentary power, and re<g ref="char:EOLhyphen"/>tained ſince that time onely a ruling power, ſuch as that of Kings and Supream Governors, which amongſt all free Nations is capable of reſiſtance and removal by the People, and that the Armies under their Command had power to do as much as the People themſelves, being in Arms, might have done in order to the oppoſing of Uſur<g ref="char:EOLhyphen"/>pation, as well in their own Rulers as others; And firſt I ſhall give you the ſtate of the Caſe.</p>
+            <p>The Parliament in their declarations make as large Promiſes of doing great things for the People, if once they could but get the power into their hands, as almoſt was poſſible? They are at firſt afflicted with ſeveral Armies that make it their deſign to prolong the War, rather then obtain a Conqueſt; at length many gallant men (not Soul<g ref="char:EOLhyphen"/>diers of fortune, and men of mercenary Principles) for the
+<pb n="2" facs="tcp:166530:4"/>love of their Country, and hopes of the great things pro<g ref="char:EOLhyphen"/>miſed, expoſe their lives to hazzard, for maintaining the Parliament in their dominion, follow their buſineſs with ſuch unceſſant pains, Vigilance and diligence, as is with<g ref="char:EOLhyphen"/>out all example of any Army ſince the World began; They find in every thing ſucceſs to wonder, acknowledg<g ref="char:EOLhyphen"/>ed by friends and enemies to be from a divine preſence, they have on a ſuddain reduced the whole Nation; which is ſcarcely done, but theſe men muſt lay down Arms, that others whoſe ways tend to perſecution and oppreſſion (eſ<g ref="char:EOLhyphen"/>pecially againſt men of their practices &amp; Judgements) may take them up, and reap all the ſweet fruits of theſe mens loſſes, of their blood and limbs, of their precious friends ſlain in the ſervice (and the Widdows and Orphans made thereby) of their incomparable diligence, unexampled ad<g ref="char:EOLhyphen"/>ventures, Invincible courage, miſerable hardſhips under<g ref="char:EOLhyphen"/>gone by them, and many other things of what moment ſo<g ref="char:EOLhyphen"/>ever, not at all now to be ſpoken of, but they are doomed to ſubmit all this, yea and their lives, yea and their poſte<g ref="char:EOLhyphen"/>rities, yea and ſome things relating to their ſouls, to the mercy of thoſe that they plainly perceive, do implacably hate them, manifeſted in this their undeſerved cruelty.</p>
+            <p>Theſe people have now reaſon to fear that ſuch a bloody and deboiſt crue as are uſually liſted in all ordinary Ar<g ref="char:EOLhyphen"/>mies, ſhal again be levied upon the Nation and themſelves, to the Plundering and Ruining of the People; and further, that by means thereof themſelves, their poſterities and all men of the moſt raiſed Principles, muſt be inſlaved to the wills of a Generation, whoſe deſtructive ways &amp; purpoſes are ſufficiently manifeſted in this prodigious proceeding, and that the future dominion will by them be ſecured to ſuch as they in their kindneſs ſhall think good enough to rule over them.</p>
+            <pb n="3" facs="tcp:166530:4"/>
+            <p>From theſe great endeavours to remove the Militia into the hands of their own Creatures, whereby to be main<g ref="char:EOLhyphen"/>tained in ruling, how long and which way they pleaſed, and their not performing their large promiſes to the people in their firſt declarations (to the deluding of theſe men who would never have undergon the hardſhips of ſuch a bloody war) meerly to put the feet of ſome deſigners into the Stir<g ref="char:EOLhyphen"/>rop, they (though required to lay down Arms) demur upon it, humble themſelves deeply, ſeek God ſolemnly, he re<g ref="char:EOLhyphen"/>turns ſuch an anſwer, as with one heart and Soul they are agreed, That to lay down Arms, would be to forgo their truſt.</p>
+            <p>Hereupon they ſtand it out, reſiſt the Parliament, and ſince that time upon like occaſions they ſeclude many members, and at laſt (finding ſtill the ſame deſign more ſubtilly carryed on) they diſſolve the houſe.</p>
+            <p>Now the queſtion is, how far theſe things, though otherwiſe very equitable, yet being thus acted againſt the Supream power, were fit to be done at all; and if they were, then whether they might be done by the preſent Army, in that capacity wherein they ſtood in relation to them.</p>
+            <p>For notwithſtanding all that hath been ſaid, I muſt needs confeſs,<note place="margin">Rom. 3.7. 1 Pet. 2.13. Rom. 13, 1, 2.</note> that to do the leaſt evil for obtaining the greateſt good, or to reſiſt the higher powers in that ſenſe as the Scripture requires obedience to them, is not in any ſort to be juſtified by honeſt men, much leſs by Chriſtians.</p>
+            <p>And therefore,</p>
+            <p>Although it is of no leſs then Divine Inſtitution,<note place="margin">Exod. 18.21. Dan.
+7.14.18. Iſa. 49.23. Exod. 7.4.</note> that men fearing God ſhould have the government (which many of thoſe were not) Though ſuch Magiſtrates have been of old promiſed as a great bleſſing to mankind, and advantage to the truth; Though through the late un<g ref="char:EOLhyphen"/>wonted
+<pb n="4" facs="tcp:166530:5"/>providences, it ſeems to be now in deſign, eſpeci<g ref="char:EOLhyphen"/>ally here in
+<hi>England;</hi> though the whole Creation (ſhortly to be delivered) groans under thoſe
+<hi>Pharaoh's</hi> that will not let the People receive the Goſpel,<note place="margin">Mat.
+24.14.</note> or ſerve God otherwiſe then they pleaſe; Though the late Parliament have been ſo frequently attempting to infringe the liberty of the Godly, and that very people, by the price of whoſe blood they were ſetled in their power, yet I ſhall not take ſanctu<g ref="char:EOLhyphen"/>ary from any of theſe Conſiderations,<note place="margin">2 Sam. 23.17.</note> to prove either the equity of the aforeſaid proceeding, or the Injuſtice of the Parliaments aforeſaid claim, but in order thereunto ſhall inſiſt only upon theſe four Particulars.</p>
+            <list>
+               <item>1. That the late Parliament were long ſince diveſted of their National power.</item>
+               <item>2. That their ruling power was from a new choice of their own party.</item>
+               <item>3. That their own party had power to lay them aſide upon miſlike.</item>
+               <item>4. That this power of their own party was in their Ar<g ref="char:EOLhyphen"/>mies.</item>
+            </list>
+            <p>And firſt for the firſt, The Parliament having declared againſt the King, ſtep up into his Throne, by taking upon them the ruling power. So that whereas before they were as the People, ruled; Aſſembled onely <hi>(pro tempore)</hi> to con<g ref="char:EOLhyphen"/>troul their Rulers, and make Laws for them to rule by; they are now the ſtanding Rulers that are ſubject to the like controul from the People; For, Both theſe powers they could not have at once, becauſe there was no Law for it, and it was againſt equity.</p>
+            <p>When was there ever any Law made, that in caſe any King be declared to break his truſt by any Parliament, that ſame Parliament ſhall ſucceed him in his dominion, and yet not be ſubject to the Controul of the People, as the King
+<pb n="5" facs="tcp:166530:5"/>was; I highly preſume ſuch a ridiculous Law as this was never made: and for equity,</p>
+            <p n="1">1. It makes the Parliament both judge and party in their own cauſe, whereby they may do what they will, and ſay it is well.</p>
+            <p n="2">2. It is otherwiſe injurious in three reſpects; Firſt it lays a temptation upon Parliaments to declare againſt good Kings, that they might obtain their dominion.</p>
+            <p n="2">2. It makes good Parliaments liable to ſuſpicion for doing their duty againſt Kings; and laſtly it might make other Parliaments neglect their duty for avoyding that ſuſpicion: And thus you ſee how much this double power is againſt equity.</p>
+            <p>Now ſince that claim which hath no ground either in Law or equity is void; it follows that the Parliament by accepting of the ruling power (ſince I ſay there was no Law, (and it was againſt equity) for them to hold both) diſſolved themſelves by their own Act, as to their Parlia<g ref="char:EOLhyphen"/>mentary or National Power.</p>
+            <p n="2">2. <hi>That their ruling Power was from a new choice of their own Party.</hi>
+            </p>
+            <p>If the People had ſuſpected a meer deſign in the Par<g ref="char:EOLhyphen"/>liament to gain the Kings dominion to themſelves (and having ſhared a good part of the Publike Treaſure a<g ref="char:EOLhyphen"/>mongſt them) in the end to make their peace with the King by betraying thoſe that aſſiſted them unto his luſt, (which was a thing poſſible) yet if the People had been bound up by their firſt choice, they muſt either have ſub<g ref="char:EOLhyphen"/>mitted to the Kings will in not oppoſing him, or to the Parliaments in being betrayed by them; For a medium betwixt Acting and not Acting cannot be found, but they were free from this exigency: for,</p>
+            <p>There was no Law to conſtrain them to chuſe the
+<pb n="6" facs="tcp:166530:6"/>Parliament for a ruling power, who as yet I ſay are no more then the people ruled, that have power to controul their rulers; And as there was no Law, ſo there was no equity that they ſhould be conſtrained to it againſt their wills, ſince they were not ſlaves, but a free People; ſo that their ſubmitting themſelves to the Parliament as a Ruling power, was a new choice of them to a new Office, and that of their own party onely; for Royaliſts oppoſed it, and Neuters paid not Contribution but by conſtraint.</p>
+            <p n="3">3. <hi>Their own party had power to lay them aſide upon miſlike.</hi>
+            </p>
+            <p>Their ruling power being only of free gift upon liking from their own party, they were but as Tenants at Will, to be laid aſide upon miſlike, ſince their own party never gave them power to rule which way, and how long they pleaſed; and without their gift they could not have it; and if it had been otherwiſe, they were in a better condition when they had Kings that were controulable.</p>
+            <p>Again, the Parliaments party could not give the Parli<g ref="char:EOLhyphen"/>ament an uncontroulable power though they would; for men are not ſole Lords and Maſters of their own lives, much leſs of their poſterities, and therefore cannot give that to others which is not their own to give.</p>
+            <p>And therefore to conclude, if I truſt another with the cuſtody of my goods, I may remove them upon ſuſpicion, much more my perſon; eſpecially when I never indented how long he ſhould keep either; and it is no prejudice to him, ſince he hath no right to any dominion over me eſpe<g ref="char:EOLhyphen"/>cially if he profeſſes to aim at nothing but my good, and undergoes much trouble therein; which being the very caſe in hand, it is cleer that the Parliaments own party had power to lay them aſide upon miſlike.</p>
+            <p>
+               <label>Object.</label> Since the Royaliſts and Neuters were reduced to their obedience, their own party could not caſt them off without their conſent.</p>
+            <pb n="7" facs="tcp:166530:6"/>
+            <p>
+               <label>Anſw.</label> By the ſame reaſon they muſt have had the con<g ref="char:EOLhyphen"/>ſent of
+<hi>Ireland</hi> and <hi>Scotland</hi> in it alſo, but eſpecially in dealing with the late King, in whom thoſe Nations had in<g ref="char:EOLhyphen"/>tereſt as well as we; But I ſay there is no equity at all that thoſe who did not make choice of the Parliament them<g ref="char:EOLhyphen"/>ſelves as a ruling power, ſhould impoſe them upon others.</p>
+            <p>Laſtly, I deny that the enemy were reduced to the obe<g ref="char:EOLhyphen"/>dience of the Parliament as the Objection ſays; for by that reckoning the Parliament muſt have ſat for ever; but they were reduced to the obedience of that government which the Parliaments party ſhould think fit to ſet up over them<g ref="char:EOLhyphen"/>ſelves.</p>
+            <p>
+               <label>Object.</label> The removing of the Parliament was againſt the late Ingagement.</p>
+            <p>
+               <label>Anſw.</label> Was it at all intended by the late Ingagement that the Parliament ſhould ſit for ever? Or did it not rather refer to a being ſatisfied without King or houſe of Lords; and in the abſence thereof, to be true and faithfull to the preſent government that was and ſhould be eſtabliſhed.</p>
+            <p>Again, The Parliament men were once all bound as ſub<g ref="char:EOLhyphen"/>jects to obey the King, and yet as a Parliament they had power to reſiſt him; ſo every particular perſon in the Army or elſewhere, as private men might be obliged to ſubmit unto the Parliament, and yet the Army as a joynt body might have power to remove them; which that they had, will appear by what follows.</p>
+            <p>
+               <hi>That this power of their own party was in their Armies.</hi>
+            </p>
+            <p>That the Parliaments party had power to remove the Parliament upon miſlike, I have already proved, and now I ſay that this power of theirs was in their Armies, and that for theſe reaſons:</p>
+            <list>
+               <item>1. Without their Armies they could not Controul them.</item>
+               <item>2. The Souldiery might in their own defence do it.</item>
+               <pb n="8" facs="tcp:166530:7"/>
+               <item>3. They are a National Power, as the Parliaments here<g ref="char:EOLhyphen"/>tofore.</item>
+               <item>4. Otherwiſe the Militia would tend to more hurt then good.</item>
+               <item>5. Otherwiſe the Parliament had been inexcuſable in Commiſſionating of them.</item>
+            </list>
+            <p n="1">1. <hi>Without their Armies they could not controul them.</hi>
+            </p>
+            <p>And that for three reaſons: for the reſt of the People were,
+<list>
+                  <item>1. Unarmed; therefore could not ſuppreſs any reſiſtance that might come therein.</item>
+                  <item>2. Diſperſed; therefore could not debate or vote what was fit to be done; nor are capable of being truſted with ſuch ſecrets as relate to advice about great affairs.</item>
+                  <item>3. Without Commiſſion; therefore could not warrant their proceedings therein.</item>
+               </list>
+            </p>
+            <p>
+               <label>Object.</label> Such Commiſſions were received from the Par<g ref="char:EOLhyphen"/>liament, therefore could not be imployed againſt them.</p>
+            <p>
+               <label>Anſw.</label> It might as well be pleaded The Parliament were Summoned by the Kings Writs, therefore they were to obey his will.</p>
+            <p>But to both it is anſwered, that the King granted thoſe Writs, and the Parliament thoſe Commiſſions (or ſhould have done) in order to their Truſt, and not their own wills.</p>
+            <p n="2">2. <hi>The Soldiery might in their own defence do it.</hi>
+            </p>
+            <p>When Parliament men are to be choſen, if thoſe that ap<g ref="char:EOLhyphen"/>pear to give in their Votes ſhould be denied the Priviledge, becauſe all that might come are not preſent, there would be no end of things; but ſince thoſe that are preſent can<g ref="char:EOLhyphen"/>not help the abſence of the reſt, it is alwayes thought e<g ref="char:EOLhyphen"/>quitable they ſhould proceed without them, and not loſe their own freedoms through others default, who if they like not the iſſue, may thank themſelves.</p>
+            <pb n="9" facs="tcp:166530:7"/>
+            <p>
+               <note place="margin">Mat. 6.2. and the latter end.</note>Thus alſo it is in all Parliaments, Councels, Commit<g ref="char:EOLhyphen"/>tees, and ſuch like, wherein abſent members are conclud<g ref="char:EOLhyphen"/>ed without their conſent. Now I ſay, if there be ground for it in any caſe, much more in this; for the Armies venture their lives and limbs for freedom (and that not as Soldiers of fortune, but as their deſign;) others only their mony, be<g ref="char:EOLhyphen"/>tween which there is no compariſon. Therefore they had no reaſon from the abſence of others to ſubmit to their own ſlavery, but might in their own defence reſcue them<g ref="char:EOLhyphen"/>ſelves, ſince freedom was due, I ſay, to them as well as others, and they had paid much more for it then others.</p>
+            <p n="3">3. <hi>They are a National power as the Parliaments heretofore.</hi>
+            </p>
+            <p>By a National Power, I mean a power to Act and do, whatſoever the Nation it ſelf (being preſent) might do.</p>
+            <p>This power in a time of peace is in Parliaments, but in a time of War it ought to be in the Trained Bands, or ſuch as are worthy to be Intruſted to Act for them; For in a time of War the National truſt is not to be put in Coun<g ref="char:EOLhyphen"/>cels but in Armies, (I mean the defenſive Truſt) Coun<g ref="char:EOLhyphen"/>cils may be diſſolved by the Adverſary or ſuddain com<g ref="char:EOLhyphen"/>motions, whileſt if Armies ſtand and be faithfull, the Na<g ref="char:EOLhyphen"/>tion is upheld; but if Armies be diſſolved, what becomes of Councels? Again, what can Councels do (though they would oppreſs) if Armies be ſo faithfull as they will not obey them? On the other ſide, what can Councels help, if Armies will be ſo unfaithfull as to caſt off good Rulers and oppreſs the People? whereas if the people themſ (<hi>viz.</hi> the trained Bands) or ſuch as are intruſted to Act for them, do any of this, and there come any prejudice there<g ref="char:EOLhyphen"/>by, they may thank themſelves; or they being the People, none elſe can ſuffer by it.</p>
+            <p>Now that the Armies are intruſted to Act and do what<g ref="char:EOLhyphen"/>ſoever the Nation or trained Bands being in Arms might do, is very evident: thus,</p>
+            <pb n="10" facs="tcp:166530:8"/>
+            <p>
+               <note place="margin">Judg. 8.1, 2, 3.</note>The Nation of <hi>England</hi> is invited to appear in its own defence; the Peoples leiſure will not give way, but they permit theſe to appear for them; and this permiſſion is a truſt put upon them to Act in their ſtead.</p>
+            <p>Thus in the examples before, when Parliament men are choſen, thoſe that are not preſent at the Voting, do by their abſence permit, and thereby Intruſt the reſt to Act for them; Thus alſo in all Parliaments, Councels and Com<g ref="char:EOLhyphen"/>mittees, as is ſaid.</p>
+            <p>Now if this kind of permiſſion be a truſt in all other caſes, why only to be excepted in this? which is ſo much the more a truſt, by how much mens goods and lives are more immediately concerned in Armies then in Councels: It is evident therefore that the Armies are intruſted for the People (or Trained Bands,) to do in their abſence what<g ref="char:EOLhyphen"/>ſoever they being preſent might have done, and therefore are a National power, ſuch as the Parliaments heretofore, which have Authority to remove evil Rulers if they ſee cauſe.</p>
+            <p n="4">4. <hi>Otherwiſe the Militia would tend to more hurt then good.</hi>
+            </p>
+            <p>
+               <note place="margin">Eſther. 4.14.</note>If the Nation it ſelf be in Arms (or thoſe that Act in their ſtead) then though the ruling power would oppreſs them, yet they can do nothing without the Armies, and the Ar<g ref="char:EOLhyphen"/>mies are the Nation whom they would oppreſs, who will rather remove ſuch rulers then oppreſs themſelves; So that the chief end of the Militia is to Act as if they were the Nation; And therefore if the Army had not done that which the Nation in Arms might undoubtedly have done, they had overthrown the end of their own be<g ref="char:EOLhyphen"/>ing, and in neglecting their duty had been more for hurt then good.</p>
+            <p n="5">5. <hi>Otherwiſe the Parliament had been inexcuſable in commiſ<g ref="char:EOLhyphen"/>ſionating of them.</hi>
+            </p>
+            <pb n="11" facs="tcp:166530:8"/>
+            <p>The lives and fortunes of a People are ſubject to the Military force that is raiſed upon them; therefore the Ru<g ref="char:EOLhyphen"/>ling power can by no means be excuſed, if they do not permit the People themſelves to be the Militia (as by their Trained Bands (or if they cannot attend the ſervice) Com<g ref="char:EOLhyphen"/>mit it to thoſe that are worthy to be truſted, and do un<g ref="char:EOLhyphen"/>dertake to Act in their ſtead, and to do for them whatſo<g ref="char:EOLhyphen"/>ever they being perſonally preſent might have done, who (as is already proved) might have reſtrained or removed the late Parliament, being but a ruling power.</p>
+            <p>By all which it plainly appears what power the preſent Army had to reſtrain or remove the late Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
